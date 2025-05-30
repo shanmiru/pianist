@@ -1,7 +1,5 @@
 bpm = 85
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/hellohellohell012321/TALENTLESS/main/loader_main.lua", true))()
-
 keypress("o", x, bpm)
 keypress("0", x, bpm)
 keypress("r", x, bpm)
